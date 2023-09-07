@@ -121,11 +121,6 @@ Now to be able to use Active Directory users to login to Client-1 we need to con
 <img src="https://i.imgur.com/uDxB5cH.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 
-<p>you can now login to Client-1 with Active Directory made users.</p>
-
-<h4>Now we can see Client-1`s Computer in Active Directory from DC-1 and its connected up.</h4>
-<img src="https://i.imgur.com/2Ye0CvU.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-
 <h3>Login Permission</h3>
 <p>
 In Client-1`s computer right click the start button and go to systems -> Remote Desktop -> Select users that can remotly access this PC -> Add -> Add inn "Domain Users" in the text box and click check names,
@@ -134,3 +129,8 @@ In Client-1`s computer right click the start button and go to systems -> Remote 
 <img src="https://i.imgur.com/yCLNWde.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+
+<p>you can now login to Client-1 with Active Directory made users.</p>
+
+<h4>Now we can see Client-1`s Computer in Active Directory from DC-1 and its connected up.</h4>
+<img src="https://i.imgur.com/2Ye0CvU.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
