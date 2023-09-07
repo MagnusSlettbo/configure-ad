@@ -26,6 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Setup Organizational Unit
 - Setting up an Admin user
 - Setup Client-1`s DNS to DC-1
+- Add Host Domain
 
 <h2>Deployment and Configuration Steps</h2>
 <h3>Setting up the VM`s</h3>
@@ -113,6 +114,7 @@ Now to be able to use Active Directory users to login to Client-1 we need to con
 <p>
 <img src="https://i.imgur.com/4VhiFyj.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+<h3>Adding Our Host Domain</h3>
 <p>We can now add the Host Domain to Client-1, to do this right click start button -> System -> Rename this PC (advanced) -> Change -> Change Member of from Workgroup to Domain and type your domain "mydomain.com" then OK.  </p>
 <img src="https://i.imgur.com/7dLG9kF.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/uDxB5cH.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
