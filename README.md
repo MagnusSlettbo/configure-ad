@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 <h3>Setting up the VM`s</h3>
 <p>
-We need to set up the 2 Virtual Machines, To do this we need to first create a Windows Server 2022 and call it DC-1 and make sure to pick the vm with 2vcpus.</p>
+We need to set up 2 Virtual Machines, To do this we need to first create a Windows Server 2022 and call it DC-1 and make sure to pick the vm with 2vcpus.</p>
  Then we need to make the Client-1 Virtual Machine with Windows 10 on it. Make sure to have the Client-1 in the same Resource group as DC-1 in the setup.
 </p>
 <p>
