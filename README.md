@@ -22,12 +22,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Set DC-1`s Private IP to static
 - Enable ICMPv4 on DC-1
 - Install Active Directory Domain Service on DC-1
-- Set up our Domain
-- Setup Organizational Unit
+- Set up our Domain in Active Directory on DC-1
+- Setup Organizational Units
 - Setting up an Admin user
-- Setup Client-1`s DNS to DC-1
-- Add Host Domain
-- Set up so everyone can login
+- Set Client-1`s DNS to DC-1
+- Add Host Domain to Client-1
+- Set up so all employees can login
 
 <h2>Deployment and Configuration Steps</h2>
 <h3>Setting up the VM`s</h3>
