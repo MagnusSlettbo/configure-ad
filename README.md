@@ -84,7 +84,7 @@ To install Active Directory open "Server Manager" -> Add roles and features -> N
 <p>
 <img src="https://i.imgur.com/vJ2Zp4k.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-<p>you should now have 2 new folders in your Active Directory</p>
+<p>you should now have 2 new folders inside of your Active Directory</p>
 <img src="https://i.imgur.com/5rNMHau.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 
