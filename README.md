@@ -47,7 +47,7 @@ We need to set up 2 Virtual Machines, To do this we need to first create a Windo
 
 <h3>Enable ICMPv4</h3>
 <p>
-Open up Windows Defender Firewall with Advanced Security -> Inbound Rules and enable the 2 "Core Networking Diagnostics - ICMP Echo Request (ICMPv4-in). Client-1 can now ping DC-1`s Private IP Address." 
+Now inside of DC-1 open up Windows Defender Firewall with Advanced Security-> Inbound Rules and enable the 2 "Core Networking Diagnostics - ICMP Echo Request (ICMPv4-in). Client-1 can now ping DC-1`s Private IP Address." 
 </p>
 <p>
 <img src="https://i.imgur.com/Gub82yH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
